@@ -1,0 +1,25 @@
+_id: req_27cff9f4d12a42efb490534275235637
+type: Request
+parentId: wrk_3ffae3b028e54827bcd85975a9515d1a
+modified: 1658941240811
+created: 1658941214220
+url: http://pvwebqa.brazilsouth.cloudapp.azure.com/API/Solicitudes/GETPDFOT?SolicitudId=a778cf7b-3e42-4830-8784-8bcf7d2aaf71
+name: GETPDFOT
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_49a9321001a64c5ca6bc921aa0da7c83
+    name: Authorization
+    value: a617c456-70b3-440b-8a03-3a7e623279ce!b0e6d933a56875395ac02534fc10b895ce34a86ecd4e3ba6fc4141571fd0c4921039d3d6ba346b
+    description: ""
+authentication: {}
+metaSortKey: -1656019073127
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

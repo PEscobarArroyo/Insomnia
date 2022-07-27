@@ -1,0 +1,30 @@
+_id: req_4da0609eebe244c79b17ca636bf7e7b9
+type: Request
+parentId: wrk_3ffae3b028e54827bcd85975a9515d1a
+modified: 1658941683676
+created: 1658941351699
+url: http://pvwebqa.brazilsouth.cloudapp.azure.com/API/Solicitudes/GetImagenesporRequerimientoPV?RequerimientoNewID=B3175141-DBE6-4D93-B649-0CFEEF82AF42
+name: GetImagenesPorRequerimiento
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_2148db795e414e2299d5730b048e8b19
+    name: Authorization
+    value: a617c456-70b3-440b-8a03-3a7e623279ce!c9ab3601034943b126cd4861337deb201d5fda6907762372bff10c8f76f43a17f9e03e4f71c8e7
+    description: ""
+  - id: pair_746b10c7104345e59ded2da1da59a9d6
+    name: ""
+    value: ""
+    description: ""
+    disabled: true
+authentication: {}
+metaSortKey: -1656019072977
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

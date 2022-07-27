@@ -1,0 +1,27 @@
+_id: req_b873d84bfbb6495dab6fd7606902436b
+type: Request
+parentId: wrk_3ffae3b028e54827bcd85975a9515d1a
+modified: 1658941745204
+created: 1656019073276
+url: http://pvwebqa.brazilsouth.cloudapp.azure.com/oauth/access_token
+name: Obtengo Token de QAs
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: client_id=3bc74693aa754174892b77e7f30c9e11&grant_type=password&scope=FullControl&username=SocoApiQas&password=Socovesa.qwer.1234
+parameters: []
+headers:
+  - id: pair_be883dc1d414490f89ccd7270a99bb62
+    name: Content-Type
+    value: application/x-www-form-urlencoded
+    description: ""
+authentication: {}
+metaSortKey: -1656019073277
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

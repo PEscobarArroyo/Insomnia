@@ -1,0 +1,25 @@
+_id: req_6417051f60314abba1dfac10314fe19f
+type: Request
+parentId: wrk_3ffae3b028e54827bcd85975a9515d1a
+modified: 1658941278491
+created: 1658941250658
+url: http://pvwebqa.brazilsouth.cloudapp.azure.com/API/Propietario/GETObtieneDatosPropietario?PropietarioRut=6766947
+name: GETObtieneDatosPropietario
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_86724aef41034d8990876a249f37e062
+    name: Authorization
+    value: a617c456-70b3-440b-8a03-3a7e623279ce!b0e6d933a56875395ac02534fc10b895ce34a86ecd4e3ba6fc4141571fd0c4921039d3d6ba346b
+    description: ""
+authentication: {}
+metaSortKey: -1656019073077
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

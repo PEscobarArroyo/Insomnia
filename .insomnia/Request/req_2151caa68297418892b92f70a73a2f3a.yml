@@ -1,0 +1,25 @@
+_id: req_2151caa68297418892b92f70a73a2f3a
+type: Request
+parentId: wrk_3ffae3b028e54827bcd85975a9515d1a
+modified: 1658941151736
+created: 1658940439499
+url: https://pvwebqa.brazilsouth.cloudapp.azure.com/API/Solicitudes/GetRequerimientosporSolicitudPV?SolicitudId=a778cf7b-3e42-4830-8784-8bcf7d2aaf71
+name: GetRequerimientosporSolicitudPV
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_708af4b5e3b944699b65a3e8d8587652
+    name: Authorization
+    value: a617c456-70b3-440b-8a03-3a7e623279ce!b0e6d933a56875395ac02534fc10b895ce34a86ecd4e3ba6fc4141571fd0c4921039d3d6ba346b
+    description: ""
+authentication: {}
+metaSortKey: -1656019073227
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

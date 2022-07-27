@@ -1,0 +1,25 @@
+_id: req_550e5dc6f2d249399b8304a472b6a29b
+type: Request
+parentId: wrk_3ffae3b028e54827bcd85975a9515d1a
+modified: 1658941203157
+created: 1658941169315
+url: http://pvwebqa.brazilsouth.cloudapp.azure.com/API/Solicitudes/GETPDFOV?SolicitudId=a778cf7b-3e42-4830-8784-8bcf7d2aaf71
+name: GETPDFOV
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_c2ecc2bc05314722b73263993a23f465
+    name: Authorization
+    value: a617c456-70b3-440b-8a03-3a7e623279ce!b0e6d933a56875395ac02534fc10b895ce34a86ecd4e3ba6fc4141571fd0c4921039d3d6ba346b
+    description: ""
+authentication: {}
+metaSortKey: -1656019073177
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
